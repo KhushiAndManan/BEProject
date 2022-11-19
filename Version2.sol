@@ -49,6 +49,6 @@ contract newBirth{
 }
 
 
-    // diary[0]="Filed by hospital";
+    // diary[0]="Filed by hospital"; 
     // diary[1]="Pending by Registrar";
     // diary[2]="Certificate created";
